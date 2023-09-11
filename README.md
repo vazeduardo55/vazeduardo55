@@ -1,6 +1,6 @@
 ### Olá tudo bem? 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+My+name+is+Carlos.;Also+known+as+Buiu+:D;Welcome+to+my+github+:P)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋+My+name+is+Eduardo.;Also+known+as+Edu+:D;Welcome+to+my+github+:P)](https://git.io/typing-svg)
 
 Meu nome é Eduardo Vaz tenho 17 anos, Estou no ensino médio cursando técnico de informática e estudo banco de dados, Css e Redes.
 
