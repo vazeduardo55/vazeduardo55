@@ -1,4 +1,4 @@
-### Olá tudo bem? 👋
+### Bem Vindo!!! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+👋😍😜+My+name+is+Eduardo.;Also+known+as+Edu+:D;Welcome+to+my+github+:P)](https://git.io/typing-svg)
 
